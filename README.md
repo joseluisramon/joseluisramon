@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Jose Luis
+### Hi there 👋 I'm Jose Luis
 [Website](https://joseluisramon.com) - [Twitter](https://twitter.com/joseluisramon_) - [Linkedin](https://www.linkedin.com/in/joseluisramoncolmenares/)
 ----------------------------
 <!--
